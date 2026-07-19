@@ -1,0 +1,201 @@
+Age,Temperature_C,Heart_Rate,Pain_Level,Primary_Symptom,Duration_Days,Triage_Level,Recommended_Department
+82,97.8,91,5,Chest Pain,3,Emergency,Emergency Medicine
+14,101.7,71,9,Vomiting,1,Emergency,Emergency Medicine
+4,97.7,124,4,Fever,9,Urgent,General Medicine
+26,102.0,113,9,Chest Pain,8,Emergency,Emergency Medicine
+76,98.9,80,1,Vomiting,6,Routine,Outpatient
+36,98.1,73,6,Cough,7,Urgent,General Medicine
+13,99.5,137,6,Abdominal Pain,13,Urgent,General Medicine
+6,102.1,75,9,Vomiting,2,Emergency,Emergency Medicine
+71,99.1,106,10,Chest Pain,12,Emergency,Emergency Medicine
+9,97.3,97,4,Cough,14,Routine,Outpatient
+30,103.1,95,7,Dizziness,11,Emergency,Emergency Medicine
+47,98.1,86,6,Abdominal Pain,12,Urgent,General Medicine
+88,101.5,81,10,Chest Pain,3,Emergency,Emergency Medicine
+60,99.7,88,9,Breathing Difficulty,14,Emergency,Emergency Medicine
+8,98.6,100,1,Vomiting,5,Routine,Outpatient
+9,98.5,100,10,Chest Pain,11,Emergency,Emergency Medicine
+64,99.8,78,8,Abdominal Pain,3,Emergency,Emergency Medicine
+32,102.2,93,9,Vomiting,10,Emergency,Emergency Medicine
+52,99.5,125,3,Dizziness,2,Urgent,General Medicine
+7,103.0,140,3,Headache,13,Emergency,Emergency Medicine
+88,100.0,109,2,Vomiting,10,Routine,Outpatient
+60,100.7,61,9,Cough,11,Emergency,Emergency Medicine
+69,102.3,74,6,Abdominal Pain,7,Urgent,General Medicine
+21,100.2,124,5,Headache,9,Urgent,General Medicine
+14,103.1,124,5,Chest Pain,3,Emergency,Emergency Medicine
+48,102.3,127,9,Fever,10,Emergency,Emergency Medicine
+42,100.4,106,2,Abdominal Pain,4,Routine,Outpatient
+8,98.7,70,10,Cough,12,Emergency,Emergency Medicine
+63,102.7,76,9,Headache,11,Emergency,Emergency Medicine
+61,103.6,93,3,Vomiting,4,Emergency,Emergency Medicine
+70,102.3,99,4,Vomiting,11,Urgent,General Medicine
+84,99.6,117,9,Cough,4,Emergency,Emergency Medicine
+29,97.4,135,1,Chest Pain,10,Emergency,Emergency Medicine
+29,97.1,89,1,Cough,1,Routine,Outpatient
+43,97.5,95,4,Dizziness,4,Routine,Outpatient
+70,97.9,133,10,Dizziness,4,Emergency,Emergency Medicine
+61,102.7,72,4,Cough,11,Emergency,Emergency Medicine
+56,99.5,119,7,Fever,11,Urgent,General Medicine
+84,103.9,67,2,Vomiting,12,Emergency,Emergency Medicine
+44,102.6,91,2,Chest Pain,4,Emergency,Emergency Medicine
+69,100.1,83,7,Abdominal Pain,8,Urgent,General Medicine
+32,103.1,116,2,Cough,1,Emergency,Emergency Medicine
+84,104.0,71,1,Chest Pain,3,Emergency,Emergency Medicine
+53,100.4,111,4,Fever,3,Urgent,General Medicine
+49,97.0,93,7,Dizziness,5,Urgent,General Medicine
+55,101.9,122,9,Headache,4,Emergency,Emergency Medicine
+38,98.5,134,1,Fever,12,Urgent,General Medicine
+41,97.4,121,10,Headache,1,Emergency,Emergency Medicine
+66,97.6,68,3,Cough,11,Routine,Outpatient
+31,99.8,91,10,Fever,10,Emergency,Emergency Medicine
+11,99.9,132,10,Breathing Difficulty,5,Emergency,Emergency Medicine
+27,101.7,90,6,Abdominal Pain,7,Urgent,General Medicine
+17,101.7,118,5,Breathing Difficulty,13,Emergency,Emergency Medicine
+10,97.1,132,10,Cough,2,Emergency,Emergency Medicine
+69,98.5,76,5,Breathing Difficulty,2,Emergency,Emergency Medicine
+32,99.6,116,3,Abdominal Pain,10,Urgent,General Medicine
+84,100.7,98,9,Cough,3,Emergency,Emergency Medicine
+34,97.8,130,2,Headache,5,Urgent,General Medicine
+37,101.2,86,6,Abdominal Pain,9,Urgent,General Medicine
+63,98.8,71,1,Vomiting,14,Routine,Outpatient
+36,97.3,76,6,Abdominal Pain,3,Urgent,General Medicine
+57,100.9,131,7,Fever,2,Urgent,General Medicine
+10,103.6,129,3,Fever,14,Emergency,Emergency Medicine
+48,101.1,115,3,Headache,1,Urgent,General Medicine
+40,99.6,105,1,Chest Pain,11,Emergency,Emergency Medicine
+32,101.7,131,6,Vomiting,10,Urgent,General Medicine
+20,103.5,80,4,Headache,7,Emergency,Emergency Medicine
+4,98.3,112,6,Chest Pain,5,Emergency,Emergency Medicine
+21,102.5,108,2,Fever,14,Emergency,Emergency Medicine
+61,98.6,104,8,Abdominal Pain,14,Emergency,Emergency Medicine
+30,98.6,111,4,Breathing Difficulty,5,Emergency,Emergency Medicine
+9,103.8,104,5,Vomiting,11,Emergency,Emergency Medicine
+69,99.3,74,1,Abdominal Pain,3,Routine,Outpatient
+75,103.7,64,5,Cough,10,Emergency,Emergency Medicine
+56,99.4,115,6,Cough,7,Urgent,General Medicine
+74,98.3,115,1,Fever,9,Urgent,General Medicine
+69,101.8,106,4,Vomiting,2,Urgent,General Medicine
+86,103.4,100,10,Cough,12,Emergency,Emergency Medicine
+39,100.5,101,7,Vomiting,12,Urgent,General Medicine
+38,100.9,113,4,Vomiting,11,Urgent,General Medicine
+23,101.3,111,5,Fever,5,Urgent,General Medicine
+37,98.5,137,10,Breathing Difficulty,8,Emergency,Emergency Medicine
+57,100.1,125,4,Dizziness,13,Urgent,General Medicine
+22,101.6,125,5,Breathing Difficulty,2,Emergency,Emergency Medicine
+31,101.7,85,4,Headache,1,Urgent,General Medicine
+6,98.7,138,8,Cough,8,Emergency,Emergency Medicine
+54,103.2,84,10,Vomiting,8,Emergency,Emergency Medicine
+52,98.7,73,1,Vomiting,4,Routine,Outpatient
+23,102.6,119,9,Fever,9,Emergency,Emergency Medicine
+32,103.4,118,2,Headache,13,Emergency,Emergency Medicine
+60,101.7,136,9,Breathing Difficulty,13,Emergency,Emergency Medicine
+57,101.3,114,9,Dizziness,3,Emergency,Emergency Medicine
+61,100.2,95,4,Dizziness,11,Routine,Outpatient
+31,98.9,96,2,Chest Pain,5,Emergency,Emergency Medicine
+43,99.2,70,9,Headache,3,Emergency,Emergency Medicine
+30,99.7,87,3,Cough,7,Routine,Outpatient
+53,99.3,113,8,Fever,4,Emergency,Emergency Medicine
+54,99.7,62,10,Vomiting,8,Emergency,Emergency Medicine
+1,103.6,109,5,Vomiting,9,Emergency,Emergency Medicine
+70,102.6,122,4,Chest Pain,5,Emergency,Emergency Medicine
+56,100.4,103,7,Vomiting,12,Urgent,General Medicine
+22,102.9,139,3,Fever,7,Emergency,Emergency Medicine
+76,101.0,70,1,Vomiting,3,Urgent,General Medicine
+60,98.3,108,5,Breathing Difficulty,4,Emergency,Emergency Medicine
+59,99.3,95,7,Vomiting,5,Urgent,General Medicine
+11,100.3,66,9,Breathing Difficulty,4,Emergency,Emergency Medicine
+84,97.5,63,1,Chest Pain,4,Emergency,Emergency Medicine
+3,101.3,76,4,Dizziness,11,Urgent,General Medicine
+15,100.9,119,4,Abdominal Pain,13,Urgent,General Medicine
+48,98.2,74,10,Headache,5,Emergency,Emergency Medicine
+14,101.1,133,5,Vomiting,7,Urgent,General Medicine
+26,97.5,73,4,Abdominal Pain,14,Routine,Outpatient
+88,101.2,132,2,Fever,6,Urgent,General Medicine
+69,100.0,68,6,Breathing Difficulty,1,Emergency,Emergency Medicine
+54,102.8,115,2,Breathing Difficulty,11,Emergency,Emergency Medicine
+59,102.0,82,7,Abdominal Pain,10,Urgent,General Medicine
+69,102.4,115,8,Abdominal Pain,6,Emergency,Emergency Medicine
+32,102.8,95,2,Dizziness,4,Emergency,Emergency Medicine
+60,101.0,103,7,Fever,8,Urgent,General Medicine
+42,98.3,105,4,Abdominal Pain,6,Routine,Outpatient
+36,103.2,131,5,Fever,9,Emergency,Emergency Medicine
+25,97.6,122,7,Chest Pain,12,Emergency,Emergency Medicine
+61,101.5,117,8,Fever,2,Emergency,Emergency Medicine
+38,98.6,99,4,Breathing Difficulty,8,Emergency,Emergency Medicine
+71,100.7,130,7,Breathing Difficulty,6,Emergency,Emergency Medicine
+90,100.2,92,5,Chest Pain,2,Emergency,Emergency Medicine
+25,99.2,83,9,Chest Pain,4,Emergency,Emergency Medicine
+62,98.9,127,10,Abdominal Pain,2,Emergency,Emergency Medicine
+25,99.1,82,6,Abdominal Pain,1,Urgent,General Medicine
+69,97.9,66,1,Abdominal Pain,12,Routine,Outpatient
+17,101.5,73,8,Fever,10,Emergency,Emergency Medicine
+37,100.3,103,8,Headache,1,Emergency,Emergency Medicine
+33,103.6,74,8,Cough,7,Emergency,Emergency Medicine
+63,97.5,79,1,Headache,13,Routine,Outpatient
+73,103.6,91,2,Cough,9,Emergency,Emergency Medicine
+54,101.2,88,10,Vomiting,8,Emergency,Emergency Medicine
+57,99.1,114,10,Abdominal Pain,10,Emergency,Emergency Medicine
+80,97.4,86,2,Chest Pain,5,Emergency,Emergency Medicine
+85,97.6,82,4,Cough,3,Routine,Outpatient
+1,99.9,120,10,Abdominal Pain,1,Emergency,Emergency Medicine
+30,99.0,118,5,Cough,11,Urgent,General Medicine
+30,103.5,85,10,Vomiting,2,Emergency,Emergency Medicine
+70,98.6,94,3,Headache,2,Routine,Outpatient
+8,98.2,136,5,Abdominal Pain,8,Urgent,General Medicine
+16,100.3,111,5,Abdominal Pain,9,Urgent,General Medicine
+70,100.5,136,2,Fever,7,Urgent,General Medicine
+42,101.2,71,1,Chest Pain,11,Emergency,Emergency Medicine
+74,101.1,94,1,Fever,13,Urgent,General Medicine
+23,100.3,95,8,Headache,10,Emergency,Emergency Medicine
+56,101.4,71,8,Dizziness,6,Emergency,Emergency Medicine
+53,99.3,80,2,Breathing Difficulty,7,Emergency,Emergency Medicine
+89,100.5,130,7,Fever,8,Urgent,General Medicine
+12,99.2,74,6,Vomiting,14,Urgent,General Medicine
+66,102.8,129,1,Dizziness,7,Emergency,Emergency Medicine
+7,98.3,139,6,Dizziness,11,Urgent,General Medicine
+57,102.3,94,4,Headache,5,Urgent,General Medicine
+57,103.2,75,8,Fever,11,Emergency,Emergency Medicine
+78,102.6,99,3,Fever,9,Emergency,Emergency Medicine
+53,97.7,119,2,Cough,11,Urgent,General Medicine
+20,100.5,125,5,Abdominal Pain,7,Urgent,General Medicine
+62,103.9,118,4,Headache,7,Emergency,Emergency Medicine
+25,103.5,77,9,Cough,5,Emergency,Emergency Medicine
+54,99.4,94,9,Fever,5,Emergency,Emergency Medicine
+39,102.9,122,10,Headache,8,Emergency,Emergency Medicine
+69,100.4,130,6,Vomiting,8,Urgent,General Medicine
+42,103.1,133,4,Vomiting,4,Emergency,Emergency Medicine
+53,97.3,108,8,Vomiting,11,Emergency,Emergency Medicine
+84,103.9,64,8,Headache,9,Emergency,Emergency Medicine
+76,99.3,116,2,Cough,9,Urgent,General Medicine
+59,97.1,112,3,Headache,2,Urgent,General Medicine
+61,102.5,103,5,Vomiting,11,Emergency,Emergency Medicine
+11,103.0,108,9,Breathing Difficulty,11,Emergency,Emergency Medicine
+63,103.1,139,1,Cough,4,Emergency,Emergency Medicine
+81,101.8,89,5,Cough,7,Urgent,General Medicine
+13,102.3,116,2,Headache,12,Urgent,General Medicine
+39,103.3,101,1,Fever,5,Emergency,Emergency Medicine
+46,99.6,91,3,Vomiting,10,Routine,Outpatient
+88,102.5,82,3,Cough,10,Emergency,Emergency Medicine
+49,101.3,123,4,Headache,4,Urgent,General Medicine
+60,101.5,92,8,Fever,13,Emergency,Emergency Medicine
+60,103.3,80,9,Cough,8,Emergency,Emergency Medicine
+45,103.9,114,5,Abdominal Pain,8,Emergency,Emergency Medicine
+39,98.4,121,7,Cough,4,Urgent,General Medicine
+49,101.0,97,10,Abdominal Pain,1,Emergency,Emergency Medicine
+85,99.8,132,1,Fever,10,Urgent,General Medicine
+64,102.8,89,5,Breathing Difficulty,4,Emergency,Emergency Medicine
+82,98.3,77,5,Cough,11,Urgent,General Medicine
+83,97.3,64,8,Breathing Difficulty,12,Emergency,Emergency Medicine
+17,97.6,101,5,Vomiting,3,Urgent,General Medicine
+26,97.9,106,9,Abdominal Pain,14,Emergency,Emergency Medicine
+22,98.8,97,8,Breathing Difficulty,13,Emergency,Emergency Medicine
+15,100.3,78,2,Chest Pain,14,Emergency,Emergency Medicine
+87,102.1,131,7,Breathing Difficulty,2,Emergency,Emergency Medicine
+51,97.1,75,9,Dizziness,6,Emergency,Emergency Medicine
+87,102.2,134,5,Vomiting,14,Urgent,General Medicine
+82,103.6,89,2,Dizziness,1,Emergency,Emergency Medicine
+80,103.2,101,9,Chest Pain,11,Emergency,Emergency Medicine
+9,101.4,98,8,Vomiting,2,Emergency,Emergency Medicine
+18,97.3,98,1,Dizziness,2,Routine,Outpatient
+13,98.6,77,9,Vomiting,8,Emergency,Emergency Medicine
