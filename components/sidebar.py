@@ -35,8 +35,20 @@ def show_sidebar():
         value=0
     )
 
-    symptom = st.sidebar.text_input(
-        "What is your primary symptom?"
+    symptom = st.sidebar.selectbox(
+        "What is your primary symptom?",
+        [
+            "Fever",
+            "Headache",
+            "Chest Pain",
+            "Cough",
+            "Shortness of Breath",
+            "Abdominal Pain",
+            "Vomiting",
+            "Dizziness",
+            "Fatigue",
+            "Sore Throat"
+        ]
     )
 
     days = st.sidebar.number_input(
@@ -49,7 +61,7 @@ def show_sidebar():
     st.sidebar.markdown("---")
 
     predict = st.sidebar.button(
-        "🚑 Predict Disease",
+        "🩺 Analyze Patient",
         use_container_width=True
     )
 
