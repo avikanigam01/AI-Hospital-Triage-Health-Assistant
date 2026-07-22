@@ -1,76 +1,108 @@
 import streamlit as st
 
+
 def show_sidebar():
 
-    st.sidebar.title("🩺 Patient Assessment")
+    st.sidebar.markdown(
+        """
+        <h2 style='text-align:center;'>🩺 Patient Assessment</h2>
+        <p style='text-align:center;color:gray;font-size:14px;'>
+        Please complete the form below
+        </p>
+        """,
+        unsafe_allow_html=True
+    )
 
     st.sidebar.markdown("---")
 
-    age = st.sidebar.number_input(
-        "What is your age?",
-        min_value=0,
-        max_value=120,
-        value=18
+    # ---------------- Patient Information ---------------- #
+
+    st.sidebar.markdown("### 👤 Patient Information")
+
+    age = st.sidebar.select_slider(
+        "Age",
+        options=list(range(0, 121)),
+        value=25
     )
 
-    temperature = st.sidebar.number_input(
-        "What is your current body temperature (°C)?",
-        min_value=30.0,
-        max_value=45.0,
-        value=37.0,
-        step=0.1
+    gender = st.sidebar.radio(
+        "Gender",
+        ["Male", "Female"],
+        horizontal=True
     )
 
-    heart_rate = st.sidebar.number_input(
-        "What is your current heart rate (beats per minute)?",
-        min_value=30,
-        max_value=220,
-        value=72
+    st.sidebar.markdown("---")
+
+    # ---------------- Vital Signs ---------------- #
+
+    st.sidebar.markdown("### ❤️ Vital Signs")
+
+    temperature = st.sidebar.slider(
+        "Body Temperature (°C)",
+        34.0,
+        42.0,
+        37.0,
+        0.1
+    )
+
+    heart_rate = st.sidebar.slider(
+        "Heart Rate (BPM)",
+        40,
+        180,
+        72
     )
 
     pain = st.sidebar.slider(
-        "On a scale of 0–10, how severe is your pain?",
-        min_value=0,
-        max_value=10,
-        value=0
-    )
-
-    symptom = st.sidebar.selectbox(
-        "What is your primary symptom?",
-        [
-            "Fever",
-            "Headache",
-            "Chest Pain",
-            "Cough",
-            "Shortness of Breath",
-            "Abdominal Pain",
-            "Vomiting",
-            "Dizziness",
-            "Fatigue",
-            "Sore Throat"
-        ]
-    )
-
-    days = st.sidebar.number_input(
-        "For how many days have you been experiencing this symptom?",
-        min_value=0,
-        max_value=365,
-        value=1
+        "Pain Level",
+        0,
+        10,
+        3,
+        help="0 = No Pain, 10 = Worst Pain"
     )
 
     st.sidebar.markdown("---")
 
+    # ---------------- Symptoms ---------------- #
+
+    st.sidebar.markdown("### 🤒 Symptoms")
+
+    symptom = st.sidebar.selectbox(
+        "Primary Symptom",
+        [
+            "Fever",
+            "Cough",
+            "Headache",
+            "Chest Pain",
+            "Breathing Difficulty",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ]
+    )
+
+    days = st.sidebar.select_slider(
+        "Duration (Days)",
+        options=list(range(1, 31)),
+        value=2
+    )
+
+    st.sidebar.markdown("<br>", unsafe_allow_html=True)
+
     predict = st.sidebar.button(
         "🩺 Analyze Patient",
-        use_container_width=True
+        use_container_width=True,
+        type="primary"
     )
 
     return {
+
         "age": age,
+        "gender": gender,
         "temperature": temperature,
         "heart_rate": heart_rate,
         "pain": pain,
         "symptom": symptom,
         "days": days,
         "predict": predict
+
     }

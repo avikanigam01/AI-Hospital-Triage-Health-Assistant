@@ -3,8 +3,11 @@ from backend.chatbot import chatbot_response
 
 
 def show_chatbot(prediction=None):
+    st.markdown("## 💬 AI Health Assistant")
 
-    st.subheader("💬 AI Health Assistant")
+    st.caption(
+        "Ask general health questions or discuss your triage assessment."
+    )
 
     if "messages" not in st.session_state:
         st.session_state.messages = []

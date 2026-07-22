@@ -1,21 +1,23 @@
 import streamlit as st
 
-
 def show_result(result):
-    st.markdown("## 📋 Patient Assessment Report")
 
-    col1, col2, col3 = st.columns(3)
+    st.markdown("## 🩺 Patient Assessment Report")
 
-    with col1:
-        st.metric("🚨 Risk Level", result["risk"])
+    c1,c2,c3=st.columns(3)
 
-    with col2:
-        st.metric("🏥 Department", result["department"])
+    with c1:
+        st.metric("Risk Level",result["risk"])
 
-    with col3:
-        st.metric("🎯 Confidence", f"{result['confidence']}%")
+    with c2:
+        st.metric("Department",result["department"])
 
-    st.warning(result["seek_care"])
+    with c3:
+        st.metric("Confidence",f"{result['confidence']}%")
+
+    st.markdown("---")
+
+    st.info(result["seek_care"])
 
     st.markdown("### 💊 First Aid Guidance")
 
